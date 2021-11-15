@@ -47,7 +47,7 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: Automaiton Using Python
+  - name: Automation Using Python
     web_url: https://github.com/topics/python-automation
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
   
@@ -58,3 +58,7 @@ topics:
   - name: Game Development
     web_url: https://github.com/topics/game-development
     image_url: https://raw.githubusercontent.com/github/explore/766170cd8ae0eaf49dcd8b3a478626cca6abae1d/topics/game-development/game-development.png
+    
+  - name: App Development
+    web_url: https://github.com/topics/app-development
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png
