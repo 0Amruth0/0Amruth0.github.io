@@ -1,7 +1,7 @@
 ---
-title: "Thoughts on amFoss tasks"
+title: "Thoughts on ReactJS"
 ---
-<h><b><i>Thoughts on am foss tasks</i><b>
+<h><b><i>Thoughts on ReactJS</i><b>
   
   <p>    </p>
-<p><i>The amFoss tasks were very intresting and informative and fun to do. I learnt many new things every day solving these challenges. I hope to learn many new things further..</i></p>
+<p><i>ReactJS seems pretty fun to use .. I dont understand why people are scared of these things man!! its so easy to learn and also just so much fun to learn too!! </i></p>
